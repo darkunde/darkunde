@@ -8,6 +8,7 @@
 
 ## 🚀 About Me
 
+- 🔭 I'm currently working on **Doctorly** — a healthcare platform
 - 🌱 I'm currently learning **modern web technologies**
 - 💬 Ask me about **web development, JavaScript, and building impactful products**
 - 📫 How to reach me: [@rushi_darkunde](https://twitter.com/rushi_darkunde) on X
@@ -28,7 +29,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkunde&show_icons=true&theme=tokyonight&hide_border=true" alt="Rushikesh's GitHub Stats" />
+
+![Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/darkunde?style=for-the-badge&logo=github&label=Followers&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/darkunde?style=for-the-badge&logo=github&label=Stars&color=yellow)
+
 </div>
 
 ---

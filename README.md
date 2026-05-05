@@ -30,7 +30,7 @@
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-7-blue?style=for-the-badge&logo=github)
 ![Followers](https://img.shields.io/github/followers/darkunde?style=for-the-badge&logo=github&label=Followers&color=0e75b6)
 ![Stars](https://img.shields.io/github/stars/darkunde?style=for-the-badge&logo=github&label=Stars&color=yellow)
 

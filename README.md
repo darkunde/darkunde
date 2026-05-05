@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Doctorly** — a healthcare platform
 - 🌱 I'm currently learning **modern web technologies**
 - 💬 Ask me about **web development, JavaScript, and building impactful products**
 - 📫 How to reach me: [@rushi_darkunde](https://twitter.com/rushi_darkunde) on X
